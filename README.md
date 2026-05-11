@@ -1,5 +1,8 @@
 <img width="100%" src="https://raw.githubusercontent.com/Zaitsevr/Zaitsevr/main/banner.png" />
 <h1 align="center">Hi 👋, I'm Ryan Ribeiro</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Building+ERP+and+Management+Systems" />
+</p>
 
 <h3 align="center">
 Computer Science student focused on backend development and scalable applications.
@@ -65,6 +68,11 @@ Computer Science student focused on backend development and scalable application
 </div>
 
 ---
+### 📌 Featured Projects
 
+- 🚀 ERP NeoLogic API
+- 📦 Inventory and Financial Management System
+- 🌐 Web Development Projects
+  
 ⭐ Currently working on ERP and management systems using Node.js, Express, Prisma and PostgreSQL.
 ```
