@@ -6,9 +6,7 @@ Computer Science student focused on backend development and scalable application
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=zaitsevr&theme=dracula&border_radius=5" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaitsevr&layout=compact&langs_count=6&theme=dracula" height="150"/>
+<img src="https://streak-stats.demolab.com?user=zaitsevr&theme=dracula&border_radius=5" height="150"/>
 
 </div>
 
