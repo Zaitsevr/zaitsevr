@@ -1,3 +1,4 @@
+<img width="100%" src="https://raw.githubusercontent.com/Zaitsevr/Zaitsevr/main/banner.png" />
 <h1 align="center">Hi 👋, I'm Ryan Ribeiro</h1>
 
 <h3 align="center">
